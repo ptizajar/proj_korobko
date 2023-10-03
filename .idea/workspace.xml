@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="первая(пустая)версия" />
+    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="Код ПЗ-2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/__init__.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695831674131</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Код ПЗ-2">
+      <option name="closed" value="true" />
+      <created>1696271981029</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696271981029</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первая(пустая)версия" />
-    <option name="LAST_COMMIT_MESSAGE" value="первая(пустая)версия" />
+    <MESSAGE value="Код ПЗ-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Код ПЗ-2" />
   </component>
 </project>
