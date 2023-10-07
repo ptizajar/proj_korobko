@@ -1,0 +1,50 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"43bf156a-cbf1-4c48-9ffc-a4b303201c6b\" name=\"Changes\" comment=\"отчёт ПЗ-2\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/PZ_2/PZ_2_1.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/PZ_2/PZ_2_1.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/reports/Коробко ИС-25 отчёт ПЗ-2.docx\" beforeDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;customColor&quot;: &quot;&quot;,\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2VwoNq7Cl2QT4nbK3muSeoJv1MI\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"43bf156a-cbf1-4c48-9ffc-a4b303201c6b\" name=\"Changes\" comment=\"\" />\r\n      <created>1695756468874</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1695756468874</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"первая(пустая)версия\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1695756802133</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1695756802133</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"первая(пустая)версия\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1695831674131</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1695831674131</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Код ПЗ-2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1696271981029</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1696271981029</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Код ПЗ-2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1696349194696</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1696349194696</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"отчёт ПЗ-2\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1696349468310</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1696349468310</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"первая(пустая)версия\" />\r\n    <MESSAGE value=\"Код ПЗ-2\" />\r\n    <MESSAGE value=\"отчёт ПЗ-2\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"отчёт ПЗ-2\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 95fc5de3a95f0c95aa6815df2afcba45f81b8e1d)
++++ b/.idea/workspace.xml	(date 1696693892751)
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="отчёт ПЗ-2">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/reports/Коробко ИС-25 отчёт ПЗ-2.docx" beforeDir="false" />
+-    </list>
++    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="добавила try except" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -89,7 +85,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1696349468310</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="добавила try except">
++      <option name="closed" value="true" />
++      <created>1696693737087</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1696693737087</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -107,6 +111,7 @@
+     <MESSAGE value="первая(пустая)версия" />
+     <MESSAGE value="Код ПЗ-2" />
+     <MESSAGE value="отчёт ПЗ-2" />
+-    <option name="LAST_COMMIT_MESSAGE" value="отчёт ПЗ-2" />
++    <MESSAGE value="добавила try except" />
++    <option name="LAST_COMMIT_MESSAGE" value="добавила try except" />
+   </component>
+ </project>
+\ No newline at end of file

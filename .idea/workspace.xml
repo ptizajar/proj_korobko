@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="отчёт ПЗ-2">
+    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="добавила try except">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/Коробко ИС-25 отчёт ПЗ-2.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696349468310</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавила try except">
+      <option name="closed" value="true" />
+      <created>1696693737087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696693737087</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +114,7 @@
     <MESSAGE value="первая(пустая)версия" />
     <MESSAGE value="Код ПЗ-2" />
     <MESSAGE value="отчёт ПЗ-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="отчёт ПЗ-2" />
+    <MESSAGE value="добавила try except" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила try except" />
   </component>
 </project>

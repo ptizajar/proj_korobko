@@ -1,11 +1,12 @@
 #Вариант 13. Дано двузначное число. Вывести число, полученное при перестановке
 #цифр исходного числа
-number=input("Введите двузначное число ")
+number_=input("Введите двузначное число ")
 try:
-    int(number) #проверка на тип данных число
+    int(number_) #проверка на тип данных число
 except Exception:
        print("Вы ввели что-то не то")
        exit()
+number=int(number_)
 des=number//10
 ed=number%10
 reversed_number=ed*10+des
