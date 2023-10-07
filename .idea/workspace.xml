@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="Код ПЗ-2">
+    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="отчёт ПЗ-2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Коробко ИС-25 отчёт ПЗ-2.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696271981029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Код ПЗ-2">
+      <option name="closed" value="true" />
+      <created>1696349194696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696349194696</updated>
+    </task>
+    <task id="LOCAL-00005" summary="отчёт ПЗ-2">
+      <option name="closed" value="true" />
+      <created>1696349468310</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696349468310</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первая(пустая)версия" />
     <MESSAGE value="Код ПЗ-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Код ПЗ-2" />
+    <MESSAGE value="отчёт ПЗ-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="отчёт ПЗ-2" />
   </component>
 </project>
