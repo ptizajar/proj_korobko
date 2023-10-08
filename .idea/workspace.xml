@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="добавила try except">
+    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="добавила новый отчёт">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_2/PZ_2_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/Отчёт пз2 Коробко ИС-25.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/reports/Отчёт пз2 Коробко ИС-25.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Merging master"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696693737087</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="добавила новый отчёт">
+      <option name="closed" value="true" />
+      <created>1696695284753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696695284753</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +123,7 @@
     <MESSAGE value="Код ПЗ-2" />
     <MESSAGE value="отчёт ПЗ-2" />
     <MESSAGE value="добавила try except" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавила try except" />
+    <MESSAGE value="добавила новый отчёт" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила новый отчёт" />
   </component>
 </project>
