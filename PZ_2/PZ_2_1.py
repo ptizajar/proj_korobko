@@ -6,9 +6,13 @@ try:
 except Exception:
        print("Вы ввели что-то не то")
        exit()
-number=int(number_)
-des=number//10
-ed=number%10
-reversed_number=ed*10+des
+number = int(number_)
+des = abs(number)//10
+ed = abs(number)%10
+reversed_number=abs(ed*10)+abs(des)
+if number<0:
+    abs_reversed_number=reversed_number*(-1)
+else:
+    abs_reversed_number=reversed_number
 print("Число, полученное при перестановке " \
-       f"цифр исходного числа: {reversed_number}")
+       f"цифр исходного числа: {abs_reversed_number}")
