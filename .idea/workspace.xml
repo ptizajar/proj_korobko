@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="добавила новый отчёт">
+    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="Теперь работает с отрицательными">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696778287769</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Теперь работает с отрицательными">
+      <option name="closed" value="true" />
+      <created>1697039710010</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697039710010</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,6 +139,7 @@
     <MESSAGE value="отчёт ПЗ-2" />
     <MESSAGE value="добавила try except" />
     <MESSAGE value="добавила новый отчёт" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавила новый отчёт" />
+    <MESSAGE value="Теперь работает с отрицательными" />
+    <option name="LAST_COMMIT_MESSAGE" value="Теперь работает с отрицательными" />
   </component>
 </project>
