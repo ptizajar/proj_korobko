@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="Код пз-3 со вторым заданием">
+    <list default="true" id="43bf156a-cbf1-4c48-9ffc-a4b303201c6b" name="Changes" comment="отчёт пз3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697558187351</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="отчёт пз3">
+      <option name="closed" value="true" />
+      <created>1698501042865</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698501042865</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +183,7 @@
     <MESSAGE value="Исправленный отчёт" />
     <MESSAGE value="Код пз-3" />
     <MESSAGE value="Код пз-3 со вторым заданием" />
-    <option name="LAST_COMMIT_MESSAGE" value="Код пз-3 со вторым заданием" />
+    <MESSAGE value="отчёт пз3" />
+    <option name="LAST_COMMIT_MESSAGE" value="отчёт пз3" />
   </component>
 </project>
